@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://twitter.com/sagarjadhav063"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/sagar0163?tab=repositories"><img src="https://img.shields.io/badge/Repos-42-blue?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/sagar0163?tab=repositories"><img src="https://img.shields.io/github/repos-personal/sagar0163?style=for-the-badge&logo=github&color=blue" /></a>
   <img src="https://img.shields.io/badge/Location-Pune,%20India-orange?style=for-the-badge&logo=mapmarker" />
 </p>
 
@@ -43,10 +43,10 @@
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[Nebula-CLI](https://github.com/sagar0163/Nebula_cli)** | Self-healing terminal agent that auto-detects and fixes common CLI errors | `Node.js`, `LLM` |
-| **[Argus Pentest](https://github.com/sagar0163/argus-pentest)** | Autonomous AI Penetration Testing Framework for automated security audits | `Python`, `AI` |
+| **[nebula-cli-chaos](https://github.com/sagar0163/nebula-cli-chaos)** | Chaos testing framework for CLI applications — fault injection, resilience validation | `Node.js`, `CLI` |
 | **[APIX Gateway](https://github.com/sagar0163/apix-gateway)** | High-performance Node.js API Gateway with rate limiting and analytics | `Node.js`, `Redis` |
-| **[AI Code Reviewer](https://github.com/sagar0163/ai-code-reviewer)** | AI-powered code analysis tool for security and performance optimization | `Python`, `LLM` |
-| **[LLM Manager](https://github.com/sagar0163/llm-manager)** | Resilient multi-provider LLM wrapper with automatic failover support | `Python` |
+| **[Argus Pentest](https://github.com/sagar0163/argus-pentest)** | Autonomous AI Penetration Testing Framework for automated security audits | `Python`, `AI` |
+| **[LLM Manager](https://github.com/sagar0163/llm-manager)** | Resilient multi-provider LLM wrapper with automatic failover and load balancing | `Python` |
 
 ---
 
