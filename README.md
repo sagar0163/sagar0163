@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://twitter.com/sagarjadhav063"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/sagar0163?tab=repositories"><img src="https://img.shields.io/github/repos-personal/sagar0163?style=for-the-badge&logo=github&color=blue" /></a>
-  <img src="https://img.shields.io/badge/Location-Pune,%20India-orange?style=for-the-badge&logo=mapmarker" />
+  <a href="https://github.com/sagar0163?tab=repositories"><img src="https://img.shields.io/badge/Repos-39-blue?style=for-the-badge&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Location-Mumbai,%20India-orange?style=for-the-badge&logo=mapmarker" />
 </p>
 
 ---
@@ -47,6 +47,7 @@
 | **[APIX Gateway](https://github.com/sagar0163/apix-gateway)** | High-performance Node.js API Gateway with rate limiting and analytics | `Node.js`, `Redis` |
 | **[Argus Pentest](https://github.com/sagar0163/argus-pentest)** | Autonomous AI Penetration Testing Framework for automated security audits | `Python`, `AI` |
 | **[LLM Manager](https://github.com/sagar0163/llm-manager)** | Resilient multi-provider LLM wrapper with automatic failover and load balancing | `Python` |
+| **[Nebula-Writer-2](https://github.com/sagar0163/Nebula-Writer-2)** | AI-powered writing assistant with multi-model support, document analysis, and content generation | `Python` |
 
 ---
 
