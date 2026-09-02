@@ -1,11 +1,8 @@
-<h1 align="center">Sagar Jadhav</h1>
-<h3 align="center">Software Engineer building production AI agent systems, API gateways & developer tools</h3>
+<img src="https://raw.githubusercontent.com/sagar0163/sagar0163/main/assets/banner.svg" width="100%" alt="Sagar Jadhav — Software Engineer building production AI agent systems, API gateways &amp; developer tools" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-j-b86b3883/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/sagarjadhav063"><img src="https://img.shields.io/badge/X-1a1a1a?style=flat-square&logo=x&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Mumbai,%20India-1a1a1a?style=flat-square&logo=mapmarker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cateina_Technologies-1a1a1a?style=flat-square" />
 </p>
 
 Currently Software Engineer at **Cateina Technologies**, working across Fintech and IoT — production API security for a banking client, a Kubernetes gateway deployment I architected end-to-end, and now AI agent systems shipping inside Convexic.
