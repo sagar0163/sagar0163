@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/sagar0163/sagar0163/main/assets/banner.svg" width="100%" alt="Sagar Jadhav — Software Engineer building production AI agent systems, API gateways &amp; developer tools" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sagar0163/sagar0163/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagar0163/sagar0163/main/assets/banner-light.svg">
+  <img src="https://raw.githubusercontent.com/sagar0163/sagar0163/main/assets/banner-dark.svg" width="100%" alt="Sagar Jadhav — Software Engineer building production AI agent systems, API gateways &amp; developer tools" />
+</picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-j-b86b3883/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
