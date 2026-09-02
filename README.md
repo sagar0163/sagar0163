@@ -9,7 +9,7 @@
   <a href="https://twitter.com/sagarjadhav063"><img src="https://img.shields.io/badge/X-1a1a1a?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
-Currently Software Engineer at **Cateina Technologies**, working across Fintech and IoT — production API security for a banking client, a Kubernetes gateway deployment I architected end-to-end, and now AI agent systems shipping inside Convexic.
+I build production AI agent systems and API infrastructure — LangGraph workflows that handle real dispatch and document processing, gateways that secure live banking traffic, tools that fix their own CLI errors. Currently doing that as a Software Engineer at Cateina Technologies, across Fintech and IoT.
 
 ---
 
